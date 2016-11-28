@@ -12,6 +12,10 @@ This repo is living documentation of our strategic product design class delivera
 
 [Platform User stories](https://github.com/hackoregon/platform-product-design/issues)
 
+[Platform Desktop wireframe options](https://github.com/hackoregon/platform-product-design/blob/master/Hack-Oregon-Platform-Wireframe-Options-Desktop.png)
+
+[Platform Mobile wireframe](https://github.com/hackoregon/platform-product-design/blob/master/Hack-Oregon-Platform-wireframes-mobile.png)
+
 [Wiki](https://github.com/hackoregon/platform-product-design/wiki/Hack-Oregon-Platform-Product-Design-wiki)
 
 Coming Soon: MVP Story Collection Spec
