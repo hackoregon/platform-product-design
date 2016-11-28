@@ -1,14 +1,20 @@
 
 
-This repo is living documentation of our strategic product design class deliveralbes that will be highly iterative.  Our vision is outlined below.
+This repo is living documentation of our strategic product design class deliveralbes that will be highly iterative.  Our vision is outlined below.  The user stories outlined should be useful accross all Hack Oregon Fall/Winter 16 - 17 project teams.  
 
 ##  This repo contains:
 
 [Hack Oregon Platform Vision](# Hack Oregon Platform Vision)
 
+[MVP Branding Spec](https://github.com/hackoregon/platform-product-design/blob/master/mvp-branding-spec.md)
+
+[MVP Card Spec](https://github.com/hackoregon/platform-product-design/blob/master/mvp-card-spec.md)
+
 [Platform User stories](https://github.com/hackoregon/platform-product-design/issues)
 
 [Wiki](https://github.com/hackoregon/platform-product-design/wiki/Hack-Oregon-Platform-Product-Design-wiki)
+
+Comming Soon: MVP Story Collection Spec
 
 
 
