@@ -14,7 +14,7 @@ This repo is living documentation of our strategic product design class delivera
 
 [Wiki](https://github.com/hackoregon/platform-product-design/wiki/Hack-Oregon-Platform-Product-Design-wiki)
 
-Comming Soon: MVP Story Collection Spec
+Coming Soon: MVP Story Collection Spec
 
 
 
